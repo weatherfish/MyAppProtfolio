@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/spotify"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:background="#F08C35"
+        android:text="Spotify Streamer" />
+
+    <Button
+        android:id="@+id/scores"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:background="#F08C35"
+        android:text="Scores App" />
+
+    <Button
+        android:id="@+id/library"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:background="#F08C35"
+        android:text="Library App"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/build_it"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:background="#F08C35"
+        android:text="Build It Bigger"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/xyz"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:background="#F08C35"
+        android:text="XYZ Reader"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/capstone"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:text="Capstone: My Own App"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>
